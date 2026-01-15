@@ -11,14 +11,15 @@ spatial structure on grassland plant diversity across Europe.
 Repository structure
 --------------------------------------------------------------------
 
+```
 scripts/
 ├── 01_inla_model-part01.R
 ├── 02_inla_model-part02.R
 ├── 03_figures-part01.R
 ├── 04_figures-part02.R
-└── 05_inla_model-absolute-contribution.R
+├── 05_inla_model-absolute-contribution.R
 └── 06_inla_model-marginal-contribution.R
-
+```
 --------------------------------------------------------------------
 Script overview
 --------------------------------------------------------------------
