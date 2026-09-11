@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1093554438.svg)](https://doi.org/10.5281/zenodo.22708781)
+
 # Nitrogen inputs and land use shape spatial patterns of grassland plant diversity across Europe
 
 This repository contains the R code used for the statistical analyses and figures presented in:
